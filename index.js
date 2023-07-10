@@ -1,6 +1,3 @@
-// using math functions in JavaScript.
-// calculate the the hypoteneuse in right angle triangle.
-
 // declare the variables first.
 let count = 0;
 
